@@ -3,3 +3,4 @@ youtube.com###comments
 imgur.com###comments-container
 smh.com.au,canberratimes.com.au,theage.com.au,brisbanetimes.com.au,watoday.com.au###comments
 abc.net.au###comments
+theguardian.com##.discussion__loader
